@@ -3,7 +3,7 @@ const Me = new Developer({
   alias: "pup",
   languages: ["JavaScript", "HTML", "CSS"],
   frameworks: ["React", "Express", "Node.js"],
-  tools: ["Git", "Docker", "VSC"],
+  tools: ["Git", "Docker", "VSC", "Postman"],
   databases: ["MongoDB"],
   certifications: [
     "Full-Stack Web Development - HyperionDev & Imperial College London"
