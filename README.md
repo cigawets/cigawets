@@ -1,6 +1,6 @@
 ```js
 const Me = new Developer({
-  alias: "pup",
+  alias: "riot",
   languages: ["JavaScript", "HTML", "CSS"],
   frameworks: ["React", "Express", "Node.js"],
   tools: ["Git", "Docker", "VSC", "Postman"],
