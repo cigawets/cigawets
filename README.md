@@ -8,5 +8,5 @@
 🎮 Games • Coffee
 </pre>
 <br>
-<img src="https://cdn.discordapp.com/attachments/1474220540708520091/1493473351375786145/tumblr_mh5gu8b7Qv1qgz03zo1_400-1299433239.gif?ex=69df18f2&is=69ddc772&hm=51c89d41be42ce2f34695682a3d35ab01041b6eda53d50a8baca4bcf360cb79a&" height="40" />
+<img src="https://cdn.discordapp.com/attachments/1474220540708520091/1493477676516900964/tumblr_n08txah95c1slk289o1_500-1228265632.gif?ex=69df1cf9&is=69ddcb79&hm=d729b052ece600b6092c2e53a23011e747ba1c5222f12933e636f43825e4c0ee&" height="40" />
 </div>
