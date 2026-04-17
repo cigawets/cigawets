@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1474220540708520091/1494713832684388352/text-animation-generator-2.gif?ex=69e39c3c&is=69e24abc&hm=0c784d27cde630d4c42921cd52b8d650bbdb59ed2c022295d38ede8c52a91a23&" width="70%" />
+<h1>hello</h1>
 <br><br>
 <pre>
 💼 JS • React • Node • Three.js
