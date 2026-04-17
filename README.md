@@ -1,5 +1,5 @@
 <div align="center">
-<h1>hello</h1>
+<h1>Hello, I'm rest, a web enjoyer u3u</h1>
 <br><br>
 <pre>
 💼 JS • React • Node • Three.js
