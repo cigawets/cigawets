@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1474220540708520091/1493476263887638578/text-animation-generator.gif?ex=69df1ba8&is=69ddca28&hm=d1a62f9538d98f137f69c292c710e09a115c84a5c06e8a3fa3cd064512da2d18&" width="70%" />
+<img src="https://cdn.discordapp.com/attachments/1474220540708520091/1494713832684388352/text-animation-generator-2.gif?ex=69e39c3c&is=69e24abc&hm=0c784d27cde630d4c42921cd52b8d650bbdb59ed2c022295d38ede8c52a91a23&" width="70%" />
 <br><br>
 <pre>
 💼 JS • React • Node • Three.js
