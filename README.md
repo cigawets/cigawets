@@ -2,7 +2,7 @@
 <h1>Hello, I'm rest, a web enjoyer u3u</h1>
 <br><br>
 <pre>
-💼 JS • React • Node • Three.js
+💼 JS • Ruby • React • Node • Three.js
 💻 Web • 3D • Creative Dev
 🐾 Art • Anime • Music • Games • Coffee
 </pre>
